@@ -27,10 +27,9 @@
         ]
     },
     "require": {
-        "symfony/symfony": "^4|^5",
         "pimcore/pimcore": "^10.0",
-        "dachcom-digital/dynamic-search": "dev-develop",
-        "dachcom-digital/zendsearch": "dev-develop",
+        "dachcom-digital/dynamic-search": "dev-pimcore-x-patch-1",
+        "dachcom-digital/zendsearch": "dev-pimcore-x-patch-1",
         "wamania/php-stemmer": "~1.2"
     },
     "require-dev": {
